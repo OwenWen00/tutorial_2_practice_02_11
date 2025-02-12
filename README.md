@@ -1,7 +1,7 @@
 # tutorial_2_practice_02_11
-- git push
-- git commit
-- hello world
+conflict solve 
 - git branch: list all branches
 - git swich
-- git log --oneline --graph --all
+- git log --oneline --graph --allbranch
+
+ i will threat it like a try
